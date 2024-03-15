@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lazy18.github.io/portfolio-website/](https://lazy18.github.io/portfolio-website/)
 
-- 💬 Ask me about **html, css, javascript, react, gsap and python**
+- 💬 Ask me about **html, css, javascript, react, gsap, tailwindcss, mysql and python**
 
 - 📫 How to reach me **workwithshivansh18@gmail.com**
 
