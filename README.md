@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivanshhhhh18" target="blank"><img src="https://img.shields.io/twitter/follow/shivanshhhhh18?logo=twitter&style=for-the-badge" alt="shivanshhhhh18" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://lazy18.github.io/portfolio-website/](https://lazy18.github.io/portfolio-website/)
 
