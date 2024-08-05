@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivansh Dubey</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazy18&label=Profile%20views&color=0e75b6&style=flat" alt="lazy18" /> </p>
 
-- 🌱 I’m currently learning **Amazon Web Services (AWS)**
+- 🌱 I’m currently learning **Amazon Web Services (AWS), Snowflake, Realtime Data Streaing (Kafka)**
 
-- 💬 Ask me about **SQL, Power BI, Excel, AWS and Python and its libraries**
+- 💬 Ask me about **Data Pipeline Creation and ETL Process with Data Visualization**
 
 - 📫 How to reach me **shivanshdubeyy18@gmail.com**
 
